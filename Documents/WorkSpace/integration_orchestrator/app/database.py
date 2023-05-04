@@ -1,5 +1,5 @@
 import oracledb
-from dbconfig import settings
+from config import settings
 
 
 class OracleDB:
