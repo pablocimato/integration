@@ -1,1 +1,2 @@
-*/1 * * * * /app/main.py
+* * * * * echo "$(date '+%Y-%m-%d %H:%M:%S')" && ls -a
+* * * * * python3 /app/app/main.py
