@@ -1,11 +1,12 @@
 import os
 import subprocess
+from config import settings
 
 
 class AESCipher:
     """Class to mange AES Cipher."""
 
-    _password = "holamundo"  # sacar de los settings.password
+    _password = settings.PASSWORD
 
     @classmethod
     def decrypt_all_files(cls, dir_in, dir_out):
