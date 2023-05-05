@@ -1,8 +1,0 @@
-DB_USER=mockup
-DB_PASSWORD=mockup
-DB_CONFIG_DIR=mockup
-DB_WALLET_LOCATION=mockup
-DB_WALLET_PASSWORD=mockup
-DB_DSN=mockup
-DB_ENCODING=mockup
-AES_PASSWORD=mockup
